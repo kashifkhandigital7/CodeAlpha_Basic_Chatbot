@@ -1,12 +1,12 @@
 # CodeAlpha Basic Chatbot
 
-A simple rule-based chatbot developed in Python as part of my CodeAlpha internship.
+A simple, rule-based chatbot developed in Python during my CodeAlpha internship.
 
 ## Project Description
 
 This project is a basic conversational chatbot that interacts with users through the command line.
 
-The chatbot recognizes predefined user inputs and provides appropriate responses using Python conditional statements, functions, loops, and input/output operations.
+The chatbot recognizes predefined user inputs and responds appropriately using Python conditional statements, functions, loops, and input/output operations.
 
 ## Features
 
